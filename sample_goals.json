@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "00000000-0000-0000-0000-000000000001",
+    "Name": "Vacation",
+    "TargetAmount": 50000.0,
+    "CurrentAmount": 5000.0,
+    "AnnualRatePercent": 5.0,
+    "ContributionPeriodMonths": 1,
+    "MonthlyContribution": 2000.0,
+    "TargetDate": null
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000002",
+    "Name": "New Laptop",
+    "TargetAmount": 120000.0,
+    "CurrentAmount": 30000.0,
+    "AnnualRatePercent": 0.0,
+    "ContributionPeriodMonths": 1,
+    "MonthlyContribution": 5000.0,
+    "TargetDate": null
+  }
+]
